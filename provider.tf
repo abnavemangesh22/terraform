@@ -3,8 +3,6 @@
 # downloaded at init phase.
 
 provider "aws" {
-  #access_key = "AKIAVHSB4WCPK2AZFCEB"
-  #secret_key = "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"
   region = "ap-south-1"
   profile = "default"
 }
